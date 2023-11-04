@@ -1,9 +1,9 @@
 
-# Transformer generative model to generate pile load-deformation of pile in Bangkok Sub Soil
+# Transformer generative model to generate pile load-deformation of the pile in Bangkok Sub Soil
 
-This generative model can be use to generate the load deformaiton curve of large  bored pile in Bangkok Sub Soil. The input are soil profile, length and size of pile.
+This generative model can be used to generate the load-deformation curve of a large bored pile in Bangkok Sub Soil. The inputs are soil profile, length and size of pile.
 
-The model has been trained with 58 static pile load test with large bored pile in Bangkok area. 
+The model has been trained with 58 static pile load tests with large bored piles in the Bangkok area. 
 
 The more pile load test data are welcome to improve my model.
 
@@ -17,6 +17,8 @@ The more pile load test data are welcome to improve my model.
 
 - Dr. Sompote Youwai
  https://www.linkedin.com/in/sompoteyouwai/
+
+- Chissanupong Thongnoo
 
 
 ## Deployment
@@ -42,4 +44,4 @@ Alternatively, you can copy all the files to the desired directory manually.
     
 ## Acknowledgements
 
- - STS group and JLP co. ltd for provide the pile load test information
+ - STS group and JLP Co. ltd for providing the pile load test information
