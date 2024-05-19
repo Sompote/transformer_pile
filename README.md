@@ -8,9 +8,6 @@ The model has been trained with 58 static pile load tests with large bored piles
 The more pile load test data are welcome to improve my model.
 
 
-## Screenshots
-
-![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AK7aPaCQ1H9qu6k9UBHbzA8djL-c8VIzpZeO1BrPsB2fYIgg0VJY84r6QHcXnUnNJn3DGSLUZNu9I7HLuF-gUS8kx2BuRLrO9g=s1600)
 
 
 ## Authors
@@ -45,3 +42,4 @@ Alternatively, you can copy all the files to the desired directory manually.
 ## Acknowledgements
 
  - STS group and JLP Co. ltd for providing the pile load test information
+
