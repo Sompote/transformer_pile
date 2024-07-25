@@ -1,0 +1,10 @@
+numpy
+pandas
+keras
+scikit-learn
+matplotlib
+gradio
+openpyxl
+requests
+tensorflow == 2.15.0
+keras
