@@ -37,6 +37,9 @@ To install the model, go to the directory where you want to install it and run t
 
 Alternatively, you can copy all the files to the desired directory manually.
 
+## Space in huggingface
+https://huggingface.co/spaces/neng123/Pile_deform
+<img width="1750" alt="Screenshot 2567-07-26 at 07 00 02" src="https://github.com/user-attachments/assets/481ba231-4825-4994-8956-66f3b4b18507">
 
     
 ## Acknowledgements
